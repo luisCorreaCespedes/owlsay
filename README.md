@@ -9,9 +9,6 @@
   <a href="https://github.com/luisCorreaCespedes/owlsay/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/luisCorreaCespedes/owlsay/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/luisCorreaCespedes/owlsay" />
-  </a>
 </p>
 
 > OWLSAY is a talking owl with configurable messages
@@ -124,10 +121,8 @@ This package is free to use and will be updated as more owls are developed.
 
 * Github: [@luisCorreaCespedes](https://github.com/luisCorreaCespedes)
 * LinkedIn: [@\/in\/luiscorreacespedes](https://linkedin.com/in/\/in\/luiscorreacespedes)
+* Website: [Portfolio](https://luiscorrea.prismasoftware.cl)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/luisCorreaCespedes/owlsay/issues). You can also take a look at the [contributing guide](https://github.com/luisCorreaCespedes/owlsay/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -137,6 +132,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Luis Alejandro Correa Céspedes](https://github.com/luisCorreaCespedes).<br />
 This project is [MIT](https://github.com/luisCorreaCespedes/owlsay/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
