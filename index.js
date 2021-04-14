@@ -1,4 +1,4 @@
-// Principal function
+// Principal functions
 
 exports.sayOwl = (message) => {
     console.log("              ---- OwlSay ----               ");
@@ -59,13 +59,26 @@ exports.botDoubleOwl = () => {
 exports.thanksOwl = () => {
     console.log("           ---- OwlSay ----            ");
     console.log("                                       ");
-    console.log("      (Thanks for using Owlsay)        ");
-    console.log("           o     o      o              ");
-    console.log("   ,___, °       o        ° ,___,      ");
-    console.log("   [O.o]         °          [O.o]      ");
-    console.log("   /)__)       ,___,        /)__)      ");
-    console.log("   ╔”═”╗       [O.o]        ╔”═”╗      ");
-    console.log("   ║   ║       /)__)        ║   ║      ");
-    console.log("   ║   ╚════════”═”═════════╝   ║      ");
-    console.log("   ╚════════════════════════════╝      ");
+    console.log("        (Thanks for using Owlsay)        ");
+    console.log("           o        o        o              ");
+    console.log("   ,___, °          o          ° ,___,      ");
+    console.log("   [O.o]            °            [O.o]      ");
+    console.log("   /)__)          ,___,          /)__)      ");
+    console.log("   ╔”═”╗          [O.o]          ╔”═”╗      ");
+    console.log("   ║   ║          /)__)          ║   ║      ");
+    console.log("   ║   ╚═══════════”═”═══════════╝   ║      ");
+    console.log("   ╚═════════════════════════════════╝      ");
+    console.log("   ╔═════════════════════════════════╗      ");
+    console.log("   ║     Created by Luis Correa      ║      ");
+    console.log("   ║                                 ║      ");
+    console.log("   ║   List of module:               ║      ");
+    console.log("   ║      sayOwl(n)                  ║      ");
+    console.log("   ║      sayDoubleOwl(n, m)         ║      ");
+    console.log("   ║      botOwl()                   ║      ");
+    console.log("   ║      botDoubleOwl()             ║      ");
+    console.log("   ║      thanksOwl()                ║      ");
+    console.log("   ║                                 ║      ");
+    console.log("   ║   Contact:                      ║      ");
+    console.log("   ║   luiscorreacespedes@gmail.com  ║      ");
+    console.log("   ╚═════════════════════════════════╝      ");
 }
