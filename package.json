@@ -2,23 +2,28 @@
   "name": "owlsay",
   "version": "1.0.0",
   "description": "OWLSAY is a talking owl with configurable messages",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luisCorreaCespedes/owlsay.git"
-  },
   "keywords": [
     "owlsay",
     "talking",
     "message"
   ],
-  "author": "Luis Alejandro Correa Céspedes",
+  "homepage": "https://github.com/luisCorreaCespedes/owlsay#readme",
+  "author": {
+    "name": "Luis Alejandro Correa Céspedes",
+    "email": "luiscorreacespedes@gmail.com",
+    "url": "https://github.com/luisCorreaCespedes/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisCorreaCespedes/owlsay.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luisCorreaCespedes/owlsay/issues"
   },
-  "homepage": "https://github.com/luisCorreaCespedes/owlsay#readme"
+  "preferGlobal": true
 }
