@@ -11,9 +11,9 @@
   </a>
 </p>
 
-> OWLSAY is a talking owl with configurable messages
+### OWLSAY
 
-### 🏠 [Homepage](https://github.com/luisCorreaCespedes/owlsay#readme)
+> OWLSAY is a talking owl with configurable messages
 
 ## Install
 
@@ -21,17 +21,23 @@ To install this package just type and execute:
 
 ```sh
 npm install -g owlsay
+```
 
+or
+
+```sh
 npm i owlsay
 ```
 
-## How to use
+## How to use:
 
 To use this package, write:
 
 ```js
 const example = require('owlsay')
 ```
+
+## Functions
 
 ### owlsay message
 
@@ -91,7 +97,7 @@ or
 example.botDoubleOwl()
 ```
 
-## Help
+## Help and contact
 
 To help, write:
 
@@ -131,4 +137,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Luis Alejandro Correa Céspedes](https://github.com/luisCorreaCespedes).<br />
-This project is [MIT](https://github.com/luisCorreaCespedes/owlsay/blob/master/LICENSE) licensed.
