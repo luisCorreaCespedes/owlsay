@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to owlsay 👋</h1>
+<h1 align="center">Welcome to OWLSAY 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/owlsay" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/owlsay.svg">
@@ -13,7 +13,7 @@
 
 ### OWLSAY
 
-> OWLSAY is a talking owl with configurable messages
+> OWLSAY is a talking owl with configurable messages.
 
 ## Install
 
@@ -47,6 +47,13 @@ For a configurable message:
 example.sayOwl("example text")
 ```
 
+and execute:
+
+```sh
+node index.js
+```
+
+
 Preview:
 
 ```text
@@ -67,6 +74,12 @@ For a double configurable message:
 
 ```js
 example.sayDoubleOwl("example A", "example B")
+```
+
+and execute:
+
+```sh
+node index.js
 ```
 
 Preview:
@@ -97,12 +110,24 @@ or
 example.botDoubleOwl()
 ```
 
+and execute:
+
+```sh
+node index.js
+```
+
 ## Help and contact
 
 To help, write:
 
 ```js
 example.thanksOwl()
+```
+
+and execute:
+
+```sh
+node index.js
 ```
 
 ## Notes

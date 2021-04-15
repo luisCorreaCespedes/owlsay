@@ -1,9 +1,9 @@
 // Principal functions
 
 exports.sayOwl = (message) => {
-    console.log("              ---- OwlSay ----               ");
+    console.log("              ---- OWLSAY ----               ");
     console.log("                                             ");
-    console.log("             (" + message + ")               ");
+    console.log("             ( " + message + " )             ");
     console.log("           o                                 ");
     console.log("   ,___, °                                   ");
     console.log("   [O.o]                                     ");
@@ -15,7 +15,7 @@ exports.sayOwl = (message) => {
 }
 
 exports.sayDoubleOwl = (messageA, messageB) => {
-    console.log("              ---- OwlSay ----               ");
+    console.log("              ---- OWLSAY ----               ");
     console.log("                                             ");
     console.log("             ( " + messageA + " )            ");
     console.log("           o                                 ");
@@ -29,7 +29,7 @@ exports.sayDoubleOwl = (messageA, messageB) => {
 }
 
 exports.botOwl = () => {
-    console.log("              ---- OwlSay ----               ");
+    console.log("              ---- OWLSAY ----               ");
     console.log("                                             ");
     console.log("             ( Hi! I'm Owlsay )              ");
     console.log("           o                                 ");
@@ -43,7 +43,7 @@ exports.botOwl = () => {
 }
 
 exports.botDoubleOwl = () => {
-    console.log("           ---- OwlSay ----                  ");
+    console.log("              ---- OWLSAY ----               ");
     console.log("                                             ");
     console.log("             ( Oh! Another Owlsay )          ");
     console.log("           o                                 ");
@@ -57,9 +57,9 @@ exports.botDoubleOwl = () => {
 }
 
 exports.thanksOwl = () => {
-    console.log("           ---- OwlSay ----            ");
+    console.log("              ---- OWLSAY ----         ");
     console.log("                                       ");
-    console.log("        (Thanks for using Owlsay)        ");
+    console.log("       ( Thanks for using Owlsay )        ");
     console.log("           o        o        o              ");
     console.log("   ,___, °          o          ° ,___,      ");
     console.log("   [O.o]            °            [O.o]      ");
@@ -71,7 +71,7 @@ exports.thanksOwl = () => {
     console.log("   ╔═════════════════════════════════╗      ");
     console.log("   ║     Created by Luis Correa      ║      ");
     console.log("   ║                                 ║      ");
-    console.log("   ║   List of module:               ║      ");
+    console.log("   ║   List of modules:              ║      ");
     console.log("   ║      sayOwl(n)                  ║      ");
     console.log("   ║      sayDoubleOwl(n, m)         ║      ");
     console.log("   ║      botOwl()                   ║      ");
