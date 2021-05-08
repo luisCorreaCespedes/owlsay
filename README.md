@@ -15,6 +15,10 @@
 
 > OWLSAY is a talking owl with configurable messages.
 
+## NPM link
+
+Link: [HERE](https://www.npmjs.com/package/owlsay)
+
 ## Install
 
 To install this package just type and execute:
